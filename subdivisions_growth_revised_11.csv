@@ -1,0 +1,334 @@
+id,name,native,population,prefecture,prefecture_display,area_km2,density_km2,population_rank,population_prefecture_rank,density_km2_rank,density_km2_prefecture_rank,area_km2_rank,area_km2_prefecture_rank,growth_annual_pct,growth_annual_pct_rank,growth_annual_pct_prefecture_rank,division_type,division_type_native,division_type_display
+1,Shinkyou,心京,128234,SMD,Shuto Metropolitan District,14.385,8914.424748001391,240,30,31,18,327,27,-1.02,286,30,To,都,Municipal-level city
+2,Chiyoda,千代田,793423,SMD,Shuto Metropolitan District,41.3569,19184.779323401897,14,5,2,2,301,15,-0.16,188,17,To,都,Municipal-level city
+3,Ueno,上野,417342,SMD,Shuto Metropolitan District,18.4128,22665.862877997915,57,11,1,1,323,25,-0.59,248,22,To,都,Municipal-level city
+4,Kitamuki,北向,328263,SMD,Shuto Metropolitan District,26.1807,12538.358409057053,78,17,10,9,315,21,-0.78,271,28,To,都,Municipal-level city
+5,Kanda,神田,375639,SMD,Shuto Metropolitan District,37.0414,10141.058383322445,62,13,23,13,304,17,0.21,152,13,To,都,Municipal-level city
+6,Mizue,瑞江,366372,SMD,Shuto Metropolitan District,22.1529,16538.33132456699,67,14,4,4,319,23,0.19,156,14,To,都,Municipal-level city
+7,Adachi,足立,859273,SMD,Shuto Metropolitan District,82.7138,10388.508326301051,10,4,20,12,267,7,-0.06,171,16,To,都,Municipal-level city
+8,Narashino,習志野,112991,SMD,Shuto Metropolitan District,6.4013,17651.258338150063,265,31,3,3,333,31,-0.65,255,25,To,都,Municipal-level city
+9,Matsudo,松戸,1142284,SMD,Shuto Metropolitan District,205.1575,5567.839342943836,7,3,46,22,203,3,0.31,140,11,To,都,Municipal-level city
+10,Kamagaya,鎌ケ谷,249983,SMD,Shuto Metropolitan District,29.2735,8539.566502126498,115,22,34,19,312,20,-0.27,201,18,To,都,Municipal-level city
+11,Ayase,綾瀬,438757,SMD,Shuto Metropolitan District,36.8975,11891.239243851209,51,10,14,10,305,18,-0.49,235,21,To,都,Municipal-level city
+12,Kashiwa,柏,506293,SMD,Shuto Metropolitan District,50.005,10124.847515248475,41,9,24,14,299,14,-0.28,203,19,To,都,Municipal-level city
+13,Abiko,我孫子,229203,SMD,Shuto Metropolitan District,14.3131,16013.512097309458,141,26,5,5,328,28,-1.05,288,31,To,都,Municipal-level city
+14,Ichikawa,,1240323,SMD,Shuto Metropolitan District,290.303,4272.5118238530085,5,2,67,29,185,2,0.27,144,12,To,都,Municipal-level city
+15,Yachiyo,八千代,246384,SMD,Shuto Metropolitan District,17.4778,14096.968726041036,122,23,7,6,324,26,-0.87,278,29,To,都,Municipal-level city
+16,Inzai,印西,319283,SMD,Shuto Metropolitan District,33.3013,9587.703783335786,81,18,30,17,309,19,-0.6,249,23,To,都,Municipal-level city
+17,Misato,三郷,358394,SMD,Shuto Metropolitan District,37.3291,9600.927962367163,72,16,29,16,303,16,-0.71,264,27,To,都,Municipal-level city
+18,Sōka,草加,238949,SMD,Shuto Metropolitan District,23.6633,10097.873077719507,130,24,26,15,317,22,-0.43,228,20,To,都,Municipal-level city
+19,Higashishuto,東首都,2236493,SMD,Shuto Metropolitan District,381.4765,5862.728110381636,2,1,42,21,170,1,0.46,118,9,To,都,Municipal-level city
+20,Warabi,蕨,142382,SMD,Shuto Metropolitan District,13.7,10392.846715328467,216,29,19,11,330,29,-0.69,260,26,To,都,Municipal-level city
+21,Asaka,朝霞,365383,SMD,Shuto Metropolitan District,71.103,5138.78458011617,68,15,57,24,278,9,-0.04,167,15,To,都,Municipal-level city
+22,Akishima,昭島,548584,SMD,Shuto Metropolitan District,65.9655,8316.225905965997,31,7,36,20,280,10,0.81,71,7,To,都,Municipal-level city
+23,Niiza,新座,383283,SMD,Shuto Metropolitan District,76.3775,5018.271087689437,60,12,64,27,274,8,0.38,129,10,To,都,Municipal-level city
+24,Tokorozawa,所沢,507383,SMD,Shuto Metropolitan District,104.7365,4844.376124846639,40,8,65,28,249,5,0.96,54,4,To,都,Municipal-level city
+25,Kiyose,清瀬,233898,SMD,Shuto Metropolitan District,83.159,2812.6600848976054,135,25,79,31,266,6,0.77,74,8,To,都,Municipal-level city
+26,Wako,和光,196695,SMD,Shuto Metropolitan District,51.7175,3803.2580847875474,163,27,72,30,296,13,0.94,56,5,To,都,Municipal-level city
+27,Miyoshi,三芳,270292,SMD,Shuto Metropolitan District,19.7965,13653.52461293663,105,21,8,7,321,24,-0.6,249,23,To,都,Municipal-level city
+28,Iruma,入間,306499,SMD,Shuto Metropolitan District,59.5265,5148.950467438872,90,19,56,23,289,11,1.13,34,2,To,都,Municipal-level city
+29,Tachikawa,立川,584382,SMD,Shuto Metropolitan District,116.45,5018.3082868183765,29,6,63,26,242,4,0.94,56,5,To,都,Municipal-level city
+30,Kokubunji,国分寺,287483,SMD,Shuto Metropolitan District,56.033,5130.601609765674,99,20,59,25,294,12,1.16,30,1,To,都,Municipal-level city
+31,Kunitachi,国立,158776,SMD,Shuto Metropolitan District,12.056,13169.87392169874,193,28,9,8,331,30,1.13,34,2,To,都,Municipal-level city
+32,Mihama,三浜,809283,Shitagawa,Shitagawa,839.262,964.2793311266328,13,3,149,12,122,8,0.84,68,6,Dō,道,Municipality
+33,Tsuzuki,都筑,472293,Shitagawa,Shitagawa,549.0275,860.2355983989872,45,14,151,13,148,11,0.92,58,5,Dō,道,Municipality
+34,Kureha,呉羽,295144,Shitagawa,Shitagawa,2877.822,102.5581151301227,94,19,242,20,56,1,-0.19,192,19,Dō,道,Municipality
+35,Sakado,坂戸,842578,Shitagawa,Shitagawa,322.224,2614.8828144396443,12,2,82,4,180,16,1.25,22,2,Dō,道,Municipality
+36,Matsumoto,松本,767832,Shitagawa,Shitagawa,140.7675,5454.611327188449,16,4,48,1,230,21,0.57,102,10,To,都,Municipal-level city
+37,Namerikawa,滑川,473593,Shitagawa,Shitagawa,899.7475,526.3621182609565,44,13,171,15,117,7,0.96,54,4,Dō,道,Municipality
+38,Shiojiri,塩尻,501583,Shitagawa,Shitagawa,244.2025,2053.963411512986,42,12,104,6,194,19,0.22,151,16,Dō,道,Municipality
+39,Mizunashi,水無,405223,Shitagawa,Shitagawa,402.917,1005.7232631038155,58,15,146,11,167,15,0.42,125,12,Dō,道,Municipality
+40,Kashiwara,柏原,516944,Shitagawa,Shitagawa,284.823,1814.9657857687057,38,10,108,7,186,17,0.51,109,11,Dō,道,Municipality
+41,Tsumagoi,嬬恋,345298,Shitagawa,Shitagawa,616.5,560.0940794809408,75,17,164,14,143,10,1.08,44,3,Dō,道,Municipality
+42,Koganei,小金井,606399,Shitagawa,Shitagawa,1982.733,305.8399693756043,27,6,194,17,70,3,-0.14,184,17,Dō,道,Municipality
+43,Saegusa,三枝,336883,Shitagawa,Shitagawa,1281.43,262.8961394691868,76,18,203,18,98,6,-0.18,190,18,Dō,道,Municipality
+44,Kumode,雲出,528926,Shitagawa,Shitagawa,419.905,1259.6325359307464,33,8,122,8,165,14,0.36,134,15,Dō,道,Municipality
+45,Kawamachi,川町,1102944,Shitagawa,Shitagawa,208.377,5293.02178263436,8,1,52,2,202,20,-0.28,203,20,To,都,Municipal-level city
+46,Utsugi,空木,163293,Shitagawa,Shitagawa,1623.176,100.60092066417937,187,22,244,21,85,5,-0.35,215,21,Dō,道,Municipality
+47,Shibukawa,渋川,519333,Shitagawa,Shitagawa,421.6175,1231.7633874305502,37,9,125,9,164,13,0.74,81,7,Dō,道,Municipality
+48,Miyanose,宮瀬,651584,Shitagawa,Shitagawa,255.505,2550.181014070175,24,5,90,5,192,18,0.63,95,9,Dō,道,Municipality
+49,Kurobe,黒部,513948,Shitagawa,Shitagawa,488.1995,1052.7417582361309,39,11,136,10,154,12,0.41,127,13,Dō,道,Municipality
+50,Suwabe,諏訪部,371489,Shitagawa,Shitagawa,733.8405,506.2258079242015,64,16,174,16,129,9,1.39,13,1,Dō,道,Municipality
+51,Komae,狛江,231398,Shitagawa,Shitagawa,1744.764,132.6242402984014,138,21,230,19,79,4,0.39,128,14,Dō,道,Municipality
+52,Nishikori,錦織,534024,Shitagawa,Shitagawa,101.928,5239.227690134213,32,7,53,3,254,22,0.71,84,8,To,都,Municipal-level city
+53,Tono,遠野,241852,Shitagawa,Shitagawa,2874.123,84.1481036128238,127,20,250,22,57,2,-1.19,302,22,Dō,道,Municipality
+54,Idaina,伊大那,662293,IMD,Idaina Metropolitan District,65.8285,10060.885482731643,21,2,27,7,281,5,-0.22,196,9,To,都,Municipal-level city
+55,Hoshina,保科,703485,IMD,Idaina Metropolitan District,132.479,5310.162365356018,18,1,51,11,232,1,0.97,50,3,To,都,Municipal-level city
+56,Shizume,鎮目,241382,IMD,Idaina Metropolitan District,19.317,12495.832686234922,128,10,11,2,322,12,-0.47,232,12,To,都,Municipal-level city
+57,Makabe,真壁,162977,IMD,Idaina Metropolitan District,15.4125,10574.33901054339,188,14,18,5,326,13,-0.4,224,11,To,都,Municipal-level city
+58,Yamate,山手,209378,IMD,Idaina Metropolitan District,64.938,3224.2754627490835,152,12,75,14,283,6,-0.92,279,14,To,都,Municipal-level city
+59,Senzoku,千束,207929,IMD,Idaina Metropolitan District,14.0425,14807.121239095603,154,13,6,1,329,14,0.38,129,6,To,都,Municipal-level city
+60,Kuzuha,葛葉,233192,IMD,Idaina Metropolitan District,23.0845,10101.669951699192,137,11,25,6,318,10,0.44,122,5,To,都,Municipal-level city
+61,Natori,名取,525329,IMD,Idaina Metropolitan District,96.585,5439.032976135011,34,4,49,10,257,3,1.7,3,1,To,都,Municipal-level city
+62,Hozumi,穂積,361693,IMD,Idaina Metropolitan District,35.9625,10057.504344803616,69,5,28,8,307,8,0.25,148,7,To,都,Municipal-level city
+63,Ayabe,綾部,345928,IMD,Idaina Metropolitan District,74.4595,4645.854457792491,74,6,66,13,277,4,-0.18,190,8,To,都,Municipal-level city
+64,Ukita,宇喜多,308161,IMD,Idaina Metropolitan District,25.756,11964.6296008697,89,8,13,3,316,9,-0.3,207,10,To,都,Municipal-level city
+65,Katsura,桂,631292,IMD,Idaina Metropolitan District,124.0535,5088.868915427618,25,3,61,12,237,2,1.11,39,2,To,都,Municipal-level city
+66,Kagura,神楽,248394,IMD,Idaina Metropolitan District,22.1255,11226.593749293801,118,9,15,4,320,11,-0.66,259,13,To,都,Municipal-level city
+67,Yashiro,八代,323283,IMD,Idaina Metropolitan District,57.403,5631.813668275177,80,7,45,9,292,7,0.77,74,4,To,都,Municipal-level city
+68,Kojima,小島,2527293,Kaido,Kaido,244.819,10323.108092100696,1,1,22,1,193,13,-0.4,224,31,To,都,Municipal-level city
+69,Sagara,相良,126384,Kaido,Kaido,53.6355,2356.3498056324634,241,34,98,13,295,33,0.66,92,14,To,都,Municipal-level city
+70,Iwatsuki,岩槻,177392,Kaido,Kaido,168.51,1052.7090380392856,177,29,137,22,215,19,1.09,42,8,To,都,Municipal-level city
+71,Komoro,小諸,151233,Kaido,Kaido,17.1935,8795.940326286096,202,30,32,2,325,35,-0.64,253,34,To,都,Municipal-level city
+72,Tomonoura,鞆浦,177494,Kaido,Kaido,34.798,5100.695442266797,176,28,60,5,308,34,-0.65,255,35,To,都,Municipal-level city
+73,Akitsu,安津,149382,Kaido,Kaido,132.342,1128.7573106043433,203,31,133,21,233,25,1.25,22,3,Dō,道,Municipality
+74,Shibata,新発田,199483,Kaido,Kaido,161.4545,1235.536946941708,158,24,124,20,224,21,-0.24,197,29,Dō,道,Municipality
+75,Mibu,壬生,276494,Kaido,Kaido,84.803,3260.4271075315733,103,14,74,7,265,28,0.55,107,20,To,都,Municipal-level city
+76,Hanyū,羽生,318923,Kaido,Kaido,75.624,4217.219401248281,82,11,69,6,275,30,0.63,95,15,To,都,Municipal-level city
+77,Ogose,越生,74283,Kaido,Kaido,8.5625,8675.38686131387,298,36,33,3,332,36,-0.48,234,33,To,都,Municipal-level city
+78,Gyōda,行田,294394,Kaido,Kaido,427.3715,688.8479929054698,95,13,160,26,161,8,-0.04,167,26,Dō,道,Municipality
+79,Katori,香取,259384,Kaido,Kaido,155.906,1663.7204469359742,112,17,117,19,226,22,1.12,37,6,Dō,道,Municipality
+80,Tarui,垂井,229283,Kaido,Kaido,426.8235,537.1845739515279,140,20,169,29,162,9,0.56,105,19,Dō,道,Municipality
+81,Hino,日野,141295,Kaido,Kaido,6202.607,22.779937532718098,218,32,280,35,22,1,-1.06,290,36,Dō,道,Municipality
+82,Kurihara,栗原,459487,Kaido,Kaido,1423.019,322.8958994925577,48,6,191,32,90,5,-0.29,205,30,Dō,道,Municipality
+83,Saijō,西条,209338,Kaido,Kaido,358.4605,583.9918205771626,153,23,163,27,172,11,1.1,40,7,Dō,道,Municipality
+84,Koori,桑折,235495,Kaido,Kaido,228.516,1030.5405310787867,134,19,141,23,201,15,1.17,29,4,Dō,道,Municipality
+85,Yūki,結城,216495,Kaido,Kaido,523.34,413.6794435739672,147,22,185,30,150,7,0.21,152,24,Dō,道,Municipality
+86,Kume,久米,105611,Kaido,Kaido,4674.372,22.59362327174645,269,35,283,36,35,2,-0.41,226,32,Dō,道,Municipality
+87,Takatsuki,高槻,468394,Kaido,Kaido,1679.141,278.94858144729955,46,4,196,34,81,4,-0.16,188,28,Dō,道,Municipality
+88,Mihara,三原,359204,Kaido,Kaido,162.893,2205.1530759455595,71,9,100,14,223,20,0.57,102,18,Dō,道,Municipality
+89,Futakawa,二川,656949,Kaido,Kaido,96.585,6801.770461251747,22,3,37,4,257,27,0.24,149,23,To,都,Municipal-level city
+90,Nagae,長柄,460293,Kaido,Kaido,185.9775,2474.992942694681,47,5,97,12,207,18,0.63,95,15,Dō,道,Municipality
+91,Tatsuno,龍野,419296,Kaido,Kaido,197.143,2126.86222691143,56,8,103,15,204,16,0.71,84,13,Dō,道,Municipality
+92,Mino,箕野,267991,Kaido,Kaido,311.812,859.4633946095724,106,15,152,24,182,12,1.36,17,2,Dō,道,Municipality
+93,Kizaki,木崎,139395,Kaido,Kaido,399.2865,349.11022536449394,222,33,187,31,168,10,0.03,164,25,Dō,道,Municipality
+94,Arita,有田,262384,Kaido,Kaido,155.8375,1683.7025747974653,110,16,114,18,227,23,1.64,4,1,Dō,道,Municipality
+95,Sōma,相馬,239111,Kaido,Kaido,141.521,1689.5796383575585,129,18,113,17,229,24,1.15,33,5,Dō,道,Municipality
+96,Kameoka,亀岡,228183,Kaido,Kaido,81.9945,2782.9061705358286,142,21,80,9,269,29,0.74,81,11,To,都,Municipal-level city
+97,Kitanaga,北長,329012,Kaido,Kaido,190.156,1730.2215023454426,77,10,110,16,206,17,0.72,83,12,Dō,道,Municipality
+98,Shikama,飾磨,182034,Kaido,Kaido,239.8185,759.0490308295649,174,27,158,25,198,14,0.77,74,10,Dō,道,Municipality
+99,Kashima,鹿島,183392,Kaido,Kaido,70.7605,2591.7284360624926,173,26,84,10,279,31,0.58,100,17,To,都,Municipal-level city
+100,Tamba,丹波,309102,Kaido,Kaido,120.697,2560.975003521214,86,12,89,11,240,26,0.87,63,9,To,都,Municipal-level city
+101,Seki,関,191392,Kaido,Kaido,62.2665,3073.7555507375555,169,25,76,8,285,32,0.33,137,22,To,都,Municipal-level city
+102,Owari,尾張,452392,Kaido,Kaido,816.52,554.0488904129721,50,7,166,28,124,6,0.34,136,21,Dō,道,Municipality
+103,Kashihara,橿原,904293,Kaido,Kaido,2865.15,315.6180304696089,9,2,192,33,58,3,-0.11,179,27,Dō,道,Municipality
+104,Mikage,御影,769382,Uegawa,Uegawa,306.5375,2509.9115116421317,15,1,95,5,184,7,0.21,152,4,Dō,道,Municipality
+105,Kuroha,黒羽,457982,Uegawa,Uegawa,178.511,2565.567388004101,49,3,87,4,211,8,0.14,159,5,To,都,Municipal-level city
+106,Kutsuki,朽木,160019,Uegawa,Uegawa,63.9105,2503.798280407758,190,11,96,6,284,11,0.92,58,1,To,都,Municipal-level city
+107,Shikata,志方,308298,Uegawa,Uegawa,1167.377,264.09463266793847,87,6,202,10,103,5,-0.65,255,11,Dō,道,Municipality
+108,Hieda,稗田,210950,Uegawa,Uegawa,2371.607,88.94812673431981,150,7,248,12,63,4,-0.95,281,12,Dō,道,Municipality
+109,Yuzuriha,楪,158320,Uegawa,Uegawa,4176.034,37.911568727649254,195,12,269,13,42,2,-1.29,309,14,Dō,道,Municipality
+110,Mushiroda,筵田,196458,Uegawa,Uegawa,110.3535,1780.2607076350093,164,9,109,7,247,9,-0.31,209,7,Dō,道,Municipality
+111,Suyama,陶山,77239,Uegawa,Uegawa,62.061,1244.5658303926782,296,14,123,8,286,12,0.27,144,3,Dō,道,Municipality
+112,Nabari,名張,328029,Uegawa,Uegawa,639.653,512.8233589149116,79,5,173,9,135,6,-0.36,217,8,Dō,道,Municipality
+113,Toki,土岐,148509,Uegawa,Uegawa,28.907,5137.475351990867,207,13,58,2,314,14,-0.42,227,9,To,都,Municipal-level city
+114,Kumano,久万野,207920,Uegawa,Uegawa,10129.1,20.526996475501278,155,8,289,14,9,1,-1.06,290,13,Dō,道,Municipality
+115,Saeki,佐伯,196394,Uegawa,Uegawa,58.8415,3337.6783392673537,165,10,73,3,291,13,0.61,98,2,To,都,Municipal-level city
+116,Manda,万田,380392,Uegawa,Uegawa,3134.081,121.37274052585111,61,4,234,11,51,3,-0.57,247,10,Dō,道,Municipality
+117,Yamaguchi,山口,519787,Uegawa,Uegawa,88.1595,5895.983983575225,36,2,41,1,263,10,-0.15,186,6,To,都,Municipal-level city
+118,Shizuki,志筑,129902,Teizan,Teizan,3022.563,42.977433390139424,236,7,262,7,54,2,-1.15,298,9,Dō,道,Municipality
+119,Habu,土生,96342,Teizan,Teizan,2226.593,43.268796767078676,281,8,261,6,66,3,-0.56,243,3,Dō,道,Municipality
+120,Tsukumi,津久見,159023,Teizan,Teizan,1412.196,112.60689026169173,192,5,236,5,91,5,-0.12,182,1,Dō,道,Municipality
+121,Ujina,宇品,144283,Teizan,Teizan,138.37,1042.7332514273326,215,6,138,2,231,12,-0.7,262,4,To,都,Municipal-level city
+122,Saitama,埼玉,602797,Teizan,Teizan,361.269,1668.5544566514147,28,1,116,1,171,11,-0.54,241,2,To,都,Municipal-level city
+123,Hachisuka,蜂須賀,368390,Teizan,Teizan,857.5515,429.5835293856987,65,2,180,3,121,7,-1.02,286,7,Dō,道,Municipality
+124,Senzaki,仙崎,213283,Teizan,Teizan,752.7465,283.3397431937578,148,4,195,4,128,8,-0.71,264,5,Dō,道,Municipality
+125,Kunitomi,国富,256293,Teizan,Teizan,11065.63,23.16117564024823,114,3,278,8,6,1,-1.63,331,11,Dō,道,Municipality
+126,Kutsuna,忽那,26402,Teizan,Teizan,1926.22,13.706637871063533,317,9,311,12,72,4,-1.35,316,10,Dō,道,Municipality
+127,Hisaka,久賀,15232,Teizan,Teizan,871.6625,17.474653320522563,325,10,303,10,119,6,-1.1,296,8,Dō,道,Municipality
+128,Aki,安芸,148280,Waradani,Waradani,1405.141,105.52677631639814,208,10,240,11,93,11,-0.73,268,13,Dō,道,Municipality
+129,Yura,由良,201293,Waradani,Waradani,170.839,1178.2614040119645,157,6,131,2,214,22,-0.26,200,4,To,都,Municipal-level city
+130,Usuki,臼杵,175393,Waradani,Waradani,1012.91,173.1575362075604,178,9,217,8,107,15,-0.37,218,7,Dō,道,Municipality
+131,Saika,雑賀,134208,Waradani,Waradani,768.707,174.58927783928075,227,11,215,6,127,16,-0.35,215,6,Dō,道,Municipality
+132,Ikaruga,斑鳩,121401,Waradani,Waradani,1335.065,90.93265121922903,249,16,247,12,94,12,-0.82,275,15,Dō,道,Municipality
+133,Munakata,宗像,256399,Waradani,Waradani,1471.38,174.25749976212805,113,4,216,7,88,10,-0.64,253,11,Dō,道,Municipality
+134,Tobe,砥部,197102,Waradani,Waradani,1157.034,170.35108734920493,162,8,221,9,104,13,-0.03,165,3,Dō,道,Municipality
+135,Kimori,木守,1232300,Waradani,Waradani,238.4485,5167.992249898825,6,1,55,1,199,21,-0.43,228,8,To,都,Municipal-level city
+136,Shisō,宍粟,309381,Waradani,Waradani,728.155,424.8834382789379,85,2,182,4,131,17,0.49,111,1,Dō,道,Municipality
+137,Hioki,日置,121391,Waradani,Waradani,573.5505,211.64832041816717,251,17,210,5,146,19,0.47,115,2,Dō,道,Municipality
+138,Takachiho,高千穂,230019,Waradani,Waradani,5396.43,42.62429050316598,139,5,263,14,28,4,-0.69,260,12,Dō,道,Municipality
+139,Obi,飫肥,128348,Waradani,Waradani,6425.232,19.975621113759004,239,13,291,15,21,3,-1.25,305,18,Dō,道,Municipality
+140,Aida,英田,130118,Waradani,Waradani,1062.846,122.42413294117868,235,12,232,10,106,14,-0.62,251,10,Dō,道,Municipality
+141,Kitsuki,杵築,123288,Waradani,Waradani,9127.762,13.506925355853932,247,15,312,19,10,2,-1.62,330,22,Dō,道,Municipality
+142,Sonogi,彼杵,279909,Waradani,Waradani,638.968,438.0641910080004,100,3,179,3,136,18,-0.33,211,5,Dō,道,Municipality
+143,Kushima,串間,125294,Waradani,Waradani,1517.001,82.59322175792897,244,14,252,13,87,9,-0.51,238,9,Dō,道,Municipality
+144,Ei,頴娃,48201,Waradani,Waradani,2827.886,17.044887948099746,312,18,307,18,60,6,-0.79,272,14,Dō,道,Municipality
+145,Aira,吾平,46293,Waradani,Waradani,5042.559,9.180457779472684,313,19,316,20,32,5,-1.32,312,19,Dō,道,Municipality
+146,Suki,須木,198390,Waradani,Waradani,10469.27,18.949745302203496,159,7,295,16,8,1,-0.84,276,16,Dō,道,Municipality
+147,Kōzu,神津,18398,Waradani,Waradani,2251.116,8.172835162648216,322,20,320,22,65,7,-1.54,327,20,Dō,道,Municipality
+148,Toshima,利島,6199,Waradani,Waradani,328.4575,18.873065769544006,331,22,296,17,178,20,-1.6,329,21,Dō,道,Municipality
+149,Mikura,御蔵,16092,Waradani,Waradani,1830.115,8.792890064285578,324,21,318,21,76,8,-1.06,290,17,Dō,道,Municipality
+150,Hiruga,比留賀,138202,Hokusho,Hokusho,114.395,1208.1122426679487,223,6,128,1,244,13,1.54,6,1,To,都,Municipal-level city
+151,Kushiro,久代,151934,Hokusho,Hokusho,180.6345,841.1128549640296,201,4,156,2,208,12,1.02,48,3,Dō,道,Municipality
+152,Nafune,名舟,279483,Hokusho,Hokusho,502.516,556.1673658152177,101,3,165,3,153,10,0.69,89,4,Dō,道,Municipality
+153,Shiiba,椎葉,42490,Hokusho,Hokusho,1888.477,22.49961212130198,315,13,284,11,75,5,-1.05,288,12,Dō,道,Municipality
+154,Kumose,久茂瀬,304623,Hokusho,Hokusho,1794.084,169.79305316807907,91,2,223,5,78,6,0.3,142,6,Dō,道,Municipality
+155,Hineno,日根野,140392,Hokusho,Hokusho,7457.116,18.826581214507055,219,5,298,12,16,2,1.18,27,2,Dō,道,Municipality
+156,Okuani,奥阿仁,79240,Hokusho,Hokusho,8595.38,9.218905970416667,292,9,315,13,12,1,-0.44,231,9,Dō,道,Municipality
+157,Akune,阿久根,129342,Hokusho,Hokusho,395.382,327.13173589086,238,7,189,4,169,11,0.27,144,7,To,都,Municipal-level city
+158,Akita,秋田,308203,Hokusho,Hokusho,7448.074,41.38022796228931,88,1,266,9,17,3,-0.71,264,11,Dō,道,Municipality
+159,Higaki,日垣,98053,Hokusho,Hokusho,3986.769,24.594602797403113,279,8,274,10,44,4,-0.49,235,10,Dō,道,Municipality
+160,Sukune,宿禰,49041,Hokusho,Hokusho,921.873,53.19713235988037,310,12,255,7,115,8,-0.39,220,8,Dō,道,Municipality
+161,Ushio,牛尾,69295,Hokusho,Hokusho,1639.959,42.254105133116134,301,11,264,8,84,7,-1.06,290,13,Dō,道,Municipality
+162,Ogi,小木,78483,Hokusho,Hokusho,729.3195,107.61127324855568,294,10,238,6,130,9,0.47,115,5,Dō,道,Municipality
+163,Shiunji,紫雲寺,293290,Gyoson,Gyoson,482.24,608.1826476443265,96,7,162,11,155,13,0.1,161,7,Dō,道,Municipality
+164,Katsube,勝部,210029,Gyoson,Gyoson,82.6795,2540.2790292636023,151,11,91,5,268,24,0.58,100,4,To,都,Municipal-level city
+165,Mikumo,三雲,87438,Gyoson,Gyoson,4505.725,19.405977950274373,287,24,294,26,38,2,-0.8,273,25,Dō,道,Municipality
+166,Kanzaki,神埼,350192,Gyoson,Gyoson,348.117,1005.960639669996,73,4,145,9,175,17,-0.19,192,14,Dō,道,Municipality
+167,Yoshimi,吉見,137068,Gyoson,Gyoson,161.249,850.0393800891788,225,18,155,10,225,19,-0.29,205,17,Dō,道,Municipality
+168,Hirano,比良野,249388,Gyoson,Gyoson,458.3335,544.1190748657909,116,9,167,12,157,14,-0.1,176,11,Dō,道,Municipality
+169,Tada,多田,119302,Gyoson,Gyoson,945.574,126.16886674125982,256,21,231,21,112,9,-0.77,269,23,Dō,道,Municipality
+170,Heguri,平群,144298,Gyoson,Gyoson,268.1775,538.0690028059773,214,17,168,13,190,18,-0.1,176,11,Dō,道,Municipality
+171,Shibagaki,柴垣,261887,Gyoson,Gyoson,832.2065,314.6899237148472,111,8,193,15,123,10,-0.32,210,18,Dō,道,Municipality
+172,Ninomiya,二宮,144395,Gyoson,Gyoson,57.1975,2524.498448358757,213,16,92,6,293,25,-0.08,172,10,To,都,Municipal-level city
+173,Yuge,弓削,68029,Gyoson,Gyoson,3247.859,20.94579844753113,303,25,288,25,49,3,-1.39,320,27,Dō,道,Municipality
+174,Kuze,久世,119482,Gyoson,Gyoson,116.998,1021.2311321561052,255,20,142,8,241,21,-0.62,251,22,To,都,Municipal-level city
+175,Katsuragi,葛城,50499,Gyoson,Gyoson,5665.841,8.912886895343515,309,26,317,27,25,1,-0.77,269,23,Dō,道,Municipality
+176,Mimuro,三室,154521,Gyoson,Gyoson,577.866,267.3993624819595,199,14,199,17,145,11,-0.21,195,15,Dō,道,Municipality
+177,Koyasushita,子安下,159234,Gyoson,Gyoson,1319.995,120.63227512225426,191,13,235,22,96,5,0.2,155,6,Dō,道,Municipality
+178,Mio,三尾,148549,Gyoson,Gyoson,455.1825,326.35041988652904,206,15,190,14,158,15,1.18,27,2,Dō,道,Municipality
+179,Takatori,高取,656496,Gyoson,Gyoson,102.2705,6419.211796168005,23,2,40,4,252,22,0.29,143,5,To,都,Municipal-level city
+180,Katata,堅田,116400,Gyoson,Gyoson,417.987,278.4775603068995,261,22,197,16,166,16,1.25,22,1,Dō,道,Municipality
+181,Sasayama,笹山,524309,Gyoson,Gyoson,47.95,10934.494264859228,35,3,16,2,300,26,-0.03,165,9,To,都,Municipal-level city
+182,Nagi,凪,131594,Gyoson,Gyoson,518.545,253.77546789574677,230,19,206,18,152,12,0.82,70,3,Dō,道,Municipality
+183,Uryū,雨龍,300287,Gyoson,Gyoson,29.044,10339.037322682825,92,6,21,3,313,27,-0.27,201,16,To,都,Municipal-level city
+184,Fujizato,藤里,1244803,Gyoson,Gyoson,101.9965,12204.369757785807,4,1,12,1,253,23,-0.49,235,21,To,都,Municipal-level city
+185,Omiwa,大三輪,245439,Gyoson,Gyoson,1105.727,221.97070343764778,124,10,208,19,105,7,-0.33,211,19,Dō,道,Municipality
+186,Nagisa,長洲,102492,Gyoson,Gyoson,1895.327,54.07615677927872,273,23,254,23,74,4,-0.47,232,20,Dō,道,Municipality
+187,Hase,初瀬,169004,Gyoson,Gyoson,980.4405,172.3755801601423,182,12,219,20,109,8,-0.12,182,13,Dō,道,Municipality
+188,Izōshima,以曾島,316394,Gyoson,Gyoson,125.766,2515.7355724122576,84,5,93,7,236,20,0.09,162,8,To,都,Municipal-level city
+189,Tamakushi,玉櫛,48281,Gyoson,Gyoson,1211.902,39.839029888555345,311,27,268,24,102,6,-0.95,281,26,Dō,道,Municipality
+190,Kasama,笠間,366832,Iwatsu,Iwatsu,95.5575,3838.861418517646,66,4,71,3,259,35,0.92,58,12,To,都,Municipal-level city
+191,Sayama,狭山,361026,Iwatsu,Iwatsu,236.1195,1528.9969697547217,70,5,118,12,200,27,0.76,78,17,Dō,道,Municipality
+192,Mooka,真岡,222493,Iwatsu,Iwatsu,112.751,1973.3128752738335,146,12,106,10,245,32,1.23,26,9,Dō,道,Municipality
+193,Gose,御所,248010,Iwatsu,Iwatsu,167.688,1478.99670817232,119,8,119,13,216,28,1.44,11,4,Dō,道,Municipality
+194,Ibara,井原,242483,Iwatsu,Iwatsu,167.2085,1450.1834535923713,126,10,120,14,219,29,1.49,10,3,Dō,道,Municipality
+195,Urado,浦戸,246340,Iwatsu,Iwatsu,87.4745,2816.1349879107624,123,9,78,4,264,38,1.52,7,1,To,都,Municipal-level city
+196,Haga,芳賀,123549,Iwatsu,Iwatsu,465.5945,265.35751603594974,246,27,201,25,156,19,0.69,89,20,Dō,道,Municipality
+197,Kuga,玖珂,145042,Iwatsu,Iwatsu,3335.813,43.48025503827702,212,20,260,36,48,6,-0.56,243,34,Dō,道,Municipality
+198,Shibushi,志布志,423303,Iwatsu,Iwatsu,626.4325,675.7360130580709,55,3,161,19,138,15,1.28,19,6,Dō,道,Municipality
+199,Wake,和気,141699,Iwatsu,Iwatsu,1266.908,111.84632191129901,217,21,237,31,99,12,0.45,121,23,Dō,道,Municipality
+200,Sakurae,桜江,688293,Iwatsu,Iwatsu,126.725,5431.39080686526,20,2,50,1,235,31,0.8,72,15,To,都,Municipal-level city
+201,Kōsa,甲佐,118378,Iwatsu,Iwatsu,59.732,1981.8187905980044,259,31,105,9,288,42,0.42,125,25,Dō,道,Municipality
+202,Mimasaka,美作,197939,Iwatsu,Iwatsu,78.7065,2514.900294130726,160,13,94,8,270,39,0.44,122,24,To,都,Municipal-level city
+203,Toba,鳥羽,156492,Iwatsu,Iwatsu,60.3485,2593.1381890187827,196,17,83,6,287,41,1.13,34,10,To,都,Municipal-level city
+204,Naka,那珂,139665,Iwatsu,Iwatsu,276.9455,504.30499863691597,220,22,175,21,188,24,0.85,65,14,Dō,道,Municipality
+205,Ozu,大洲,136594,Iwatsu,Iwatsu,51.375,2658.76399026764,226,23,81,5,297,43,1.24,25,8,To,都,Municipal-level city
+206,Karatsu,唐津,289293,Iwatsu,Iwatsu,244.0655,1185.30886176047,98,6,130,18,195,25,0.27,144,29,Dō,道,Municipality
+207,Sakaide,坂出,276177,Iwatsu,Iwatsu,1662.221,166.14938687454918,104,7,227,30,83,10,-0.05,170,30,Dō,道,Municipality
+208,Handa,半田,120018,Iwatsu,Iwatsu,3699.0,32.44606650446067,254,30,270,37,46,5,-1.09,295,40,Dō,道,Municipality
+209,Ena,恵那,161194,Iwatsu,Iwatsu,8263.361,19.507074663687085,189,16,293,41,14,1,-0.95,281,39,Dō,道,Municipality
+210,Muroto,室戸,173289,Iwatsu,Iwatsu,327.43,529.2398375225239,179,15,170,20,179,22,0.86,64,13,Dō,道,Municipality
+211,Taki,多気,115386,Iwatsu,Iwatsu,334.828,344.61275640030107,264,32,188,24,177,21,0.7,87,19,Dō,道,Municipality
+212,Hagi,萩,120482,Iwatsu,Iwatsu,98.2975,1225.6873267377096,253,29,126,16,256,34,0.75,80,18,Dō,道,Municipality
+213,Kurotani,黒谷,854197,Iwatsu,Iwatsu,163.852,5213.222908478383,11,1,54,2,222,30,0.31,140,28,To,都,Municipal-level city
+214,Mitsuke,見附,194853,Iwatsu,Iwatsu,75.5555,2578.9386609843095,168,14,85,7,276,40,0.78,73,16,To,都,Municipal-level city
+215,Kōka,甲賀,131596,Iwatsu,Iwatsu,110.7645,1188.0701849419263,229,24,129,17,246,33,1.5,9,2,Dō,道,Municipality
+216,Kasari,笠利,120693,Iwatsu,Iwatsu,92.8175,1300.3259083685728,252,28,121,15,261,36,0.97,50,11,Dō,道,Municipality
+217,Hozumi,保積,148978,Iwatsu,Iwatsu,353.9395,420.9137437330391,205,19,183,22,173,20,1.27,20,7,Dō,道,Municipality
+218,Fukuyama,福山,226190,Iwatsu,Iwatsu,3084.281,73.33637888376578,143,11,253,33,52,7,-0.25,199,33,Dō,道,Municipality
+219,Himi,氷見,130595,Iwatsu,Iwatsu,624.3775,209.16032368238763,232,25,211,26,140,16,0.33,137,27,Dō,道,Municipality
+220,Yobuko,呼子,112492,Iwatsu,Iwatsu,626.501,179.55597836236495,266,33,214,27,137,14,-0.1,176,32,Dō,道,Municipality
+221,Kuroe,黒江,102694,Iwatsu,Iwatsu,610.609,168.18291246935436,272,36,225,29,144,18,-0.09,175,31,Dō,道,Municipality
+222,Awa,安房,107582,Iwatsu,Iwatsu,623.898,172.4352378113089,268,34,218,28,141,17,0.49,111,22,Dō,道,Municipality
+223,Akō,赤穂,149100,Iwatsu,Iwatsu,89.1185,1673.0532942093955,204,18,115,11,262,37,0.37,132,26,To,都,Municipal-level city
+224,Katsuura,勝浦,102485,Iwatsu,Iwatsu,962.699,106.4559119724857,274,37,239,32,110,13,-0.65,255,35,Dō,道,Municipality
+225,Miki,三木,87670,Iwatsu,Iwatsu,2012.873,43.554660428154186,286,39,259,35,69,9,-0.72,267,36,Dō,道,Municipality
+226,Uda,宇陀,85672,Iwatsu,Iwatsu,240.5035,356.2193481591744,289,40,186,23,197,26,1.37,15,5,Dō,道,Municipality
+227,Sanda,三田,130194,Iwatsu,Iwatsu,5406.363,24.08162381993218,234,26,276,39,27,2,-1.32,312,42,Dō,道,Municipality
+228,Inabe,員弁,104599,Iwatsu,Iwatsu,4457.706,23.464759676838266,270,35,277,40,39,3,-0.81,274,37,Dō,道,Municipality
+229,Kikai,喜界,98493,Iwatsu,Iwatsu,3892.033,25.306311637131547,277,38,273,38,45,4,-0.85,277,38,Dō,道,Municipality
+230,Chibu,知夫,11392,Teizan,Teizan,562.1795,20.263990415872513,328,11,290,9,147,9,-1.0,285,6,Dō,道,Municipality
+231,Mikata,御方,7382,Teizan,Teizan,427.851,17.25367008608137,329,12,304,11,160,10,-1.82,332,12,Dō,道,Municipality
+232,Kashino,樫野,20678,Iwatsu,Iwatsu,2856.861,7.238014030084068,320,42,325,43,59,8,-1.16,300,41,Dō,道,Municipality
+233,Nakanoshima,中之島,75883,Iwatsu,Iwatsu,1438.5,52.75147723322906,297,41,256,34,89,11,0.5,110,21,Dō,道,Municipality
+234,Hahajima,羽々島,2412,Iwatsu,Iwatsu,307.976,7.831779099670104,333,43,323,42,183,23,-1.87,333,43,Dō,道,Municipality
+235,Shishikui,宍喰,372104,Nankyo,Nankyo,1946.565,191.15929855925694,63,8,213,19,71,7,-0.11,179,22,Dō,道,Municipality
+236,Sasabe,笹部,476299,Nankyo,Nankyo,438.811,1085.4308574762256,43,4,134,13,159,11,1.16,30,4,Dō,道,Municipality
+237,Tobari,戸張,147482,Nankyo,Nankyo,353.8025,416.8483829255022,209,21,184,17,174,13,0.76,78,14,Dō,道,Municipality
+238,Nukata,額田,429400,Nankyo,Nankyo,424.426,1011.7193574380458,53,5,144,15,163,12,1.07,45,7,Dō,道,Municipality
+239,Kakogawa,加古川,249067,Nankyo,Nankyo,36.853,6758.391447100643,117,11,38,3,306,26,0.61,98,16,To,都,Municipal-level city
+240,Murotsu,室津,233592,Nankyo,Nankyo,920.2975,253.82226942917916,136,14,205,18,116,9,2.12,2,1,Dō,道,Municipality
+241,Hikami,氷上,247495,Nankyo,Nankyo,59.3895,4167.319138905025,120,12,70,7,290,23,0.91,61,9,To,都,Municipal-level city
+242,Kibune,貴船,195204,Nankyo,Nankyo,261.944,745.2127172220016,167,18,159,16,191,15,0.85,65,10,Dō,道,Municipality
+243,Isonokami,石上,197302,Nankyo,Nankyo,103.2295,1911.29473648521,161,16,107,11,251,20,0.85,65,10,Dō,道,Municipality
+244,Kashii,香椎,401503,Nankyo,Nankyo,175.5655,2286.9128615815753,59,7,99,8,213,17,0.7,87,15,Dō,道,Municipality
+245,Aso,阿曽,116290,Nankyo,Nankyo,808.5055,143.8332825194139,262,23,228,20,125,10,0.57,102,17,Dō,道,Municipality
+246,Kumeji,久米路,293105,Nankyo,Nankyo,50.827,5766.718476400339,97,9,43,5,298,24,1.39,13,3,To,都,Municipal-level city
+247,Hatsuse,泊瀬,428186,Nankyo,Nankyo,194.951,2196.377551282117,54,6,101,9,205,16,0.77,74,13,Dō,道,Municipality
+248,Kawashiro,河代,1786458,Nankyo,Nankyo,166.866,10705.94369134515,3,1,17,1,221,19,0.84,68,12,To,都,Municipal-level city
+249,Ochi,越智,196384,Nankyo,Nankyo,30.3455,6471.602049727307,166,17,39,4,311,27,1.52,7,2,To,都,Municipal-level city
+250,Takashina,高科,551255,Nankyo,Nankyo,65.4175,8426.720678717467,30,3,35,2,282,22,0.48,113,18,To,都,Municipal-level city
+251,Furuichi,古市,622497,Nankyo,Nankyo,283.5215,2195.5901051595733,26,2,102,10,187,14,0.46,118,20,Dō,道,Municipality
+252,Katsuma,勝間,264427,Nankyo,Nankyo,3197.854,82.68889073735075,108,10,251,23,50,4,0.04,163,21,Dō,道,Municipality
+253,Kibata,木幡,46195,Nankyo,Nankyo,2191.041,21.083585382473444,314,27,287,25,67,6,-0.39,220,24,Dō,道,Municipality
+254,Mutsure,六連,169583,Nankyo,Nankyo,167.277,1013.7855174351525,180,20,143,14,218,18,1.16,30,4,To,都,Municipal-level city
+255,Ushibuka,牛深,237190,Nankyo,Nankyo,2721.711,87.14738633161274,132,13,249,22,61,5,-0.14,184,23,Dō,道,Municipality
+256,Shido,志度,131592,Nankyo,Nankyo,76.994,1709.1201911837286,231,22,111,12,272,21,1.12,37,6,To,都,Municipal-level city
+257,Akamase,赤間瀬,185465,Nankyo,Nankyo,1811.62,102.3752221768362,171,19,243,21,77,8,0.97,50,8,Dō,道,Municipality
+258,Ayuki,綾木,67593,Nankyo,Nankyo,8612.916,7.847864764964619,304,25,321,27,11,1,-1.41,322,27,Dō,道,Municipality
+259,Tajibe,丹治部,64482,Nankyo,Nankyo,6891.032,9.357379272074198,306,26,313,26,19,2,-1.33,314,26,Dō,道,Municipality
+260,Kamitsuke,上毛,115492,Nankyo,Nankyo,5094.482,22.670018266822808,263,24,282,24,31,3,-0.56,243,25,Dō,道,Municipality
+261,Yashiro,社,225498,Nankyo,Nankyo,40.689,5541.989235419893,144,15,47,6,302,25,0.48,113,18,To,都,Municipal-level city
+262,Hiwasa,日和佐,183955,Nansho,Nansho,178.1,1032.8747894441326,172,4,140,1,212,17,1.26,21,2,Dō,道,Municipality
+263,Murozumi,室積,317109,Nansho,Nansho,714.6605,443.71978023131265,83,1,177,2,132,14,0.56,105,7,Dō,道,Municipality
+264,Takato,高遠,94436,Nansho,Nansho,1917.247,49.25604264865195,282,10,257,9,73,8,-0.04,167,11,Dō,道,Municipality
+265,Minase,水無瀬,139497,Nansho,Nansho,1328.078,105.03675235942467,221,8,241,7,95,9,0.65,93,5,Dō,道,Municipality
+266,Natsumi,奈津見,146395,Nansho,Nansho,858.5105,170.52208447071993,211,7,220,5,120,12,0.16,158,10,Dō,道,Municipality
+267,Iya,祖谷,51198,Nansho,Nansho,11399.7,4.4911708202847445,308,14,328,17,4,1,-1.33,314,16,Dō,道,Municipality
+268,Hinohara,檜原,65582,Nansho,Nansho,4561.141,14.378419785750978,305,13,310,15,37,3,0.46,118,8,Dō,道,Municipality
+269,Kusaka,日下,69766,Nansho,Nansho,7477.734,9.329831737796503,300,12,314,16,15,2,-0.3,207,12,Dō,道,Municipality
+270,Agawa,吾川,164581,Nansho,Nansho,619.377,265.72023178128995,184,6,200,4,142,16,1.1,40,3,To,都,Municipal-level city
+271,Kuremi,呉見,97101,Nansho,Nansho,4345.64,22.344464796899878,280,9,286,12,40,4,0.44,122,9,Dō,道,Municipality
+272,Takeno,竹野,276823,Nansho,Nansho,2941.322,94.11516318172576,102,2,245,8,55,6,0.97,50,4,Dō,道,Municipality
+273,Nobe,延部,262919,Nansho,Nansho,2149.325,122.3263117490375,109,3,233,6,68,7,0.65,93,5,Dō,道,Municipality
+274,Hinokuma,日隈,169288,Nansho,Nansho,626.09,270.389241163411,181,5,198,3,139,15,1.29,18,1,Dō,道,Municipality
+275,Tōshi,答志,23429,Nansho,Nansho,1254.578,18.674805392729667,319,16,299,14,101,10,-1.38,319,17,Dō,道,Municipality
+276,Kamine,嘉美根,33039,Nansho,Nansho,797.5455,41.425849685064996,316,15,265,10,126,13,-0.94,280,15,Dō,道,Municipality
+277,Utsuro,宇津呂,16592,Nansho,Nansho,879.1975,18.871755208585103,323,17,297,13,118,11,-0.7,262,14,Dō,道,Municipality
+278,Nabura,奈武良,89104,Nansho,Nansho,3035.989,29.349249947875304,285,11,271,11,53,5,-0.43,228,13,Dō,道,Municipality
+279,Kaseda,加世田,180549,Tokushima,Tokushima,179.6755,1004.8615420577653,175,10,147,10,210,24,1.03,47,4,To,都,Municipal-level city
+280,Ijūin,伊集院,206284,Tokushima,Tokushima,4990.499,41.3353454233735,156,8,267,25,33,7,-0.55,242,27,Dō,道,Municipality
+281,Hishikari,菱刈,164400,Tokushima,Tokushima,312.771,525.6241787122208,185,12,172,14,181,22,-0.08,172,16,To,都,Municipal-level city
+282,Takarabe,財部,116952,Tokushima,Tokushima,5136.815,22.767415217406118,260,28,281,29,30,6,-1.44,324,35,Dō,道,Municipality
+283,Hiwaki,樋脇,109454,Tokushima,Tokushima,103.846,1054.003042967471,267,29,135,8,250,31,-0.19,192,19,To,都,Municipal-level city
+284,Ichiki,市来,72274,Tokushima,Tokushima,3992.728,18.101408360399205,299,34,300,32,43,10,-0.99,284,29,Dō,道,Municipality
+285,Kajiki,加治木,118539,Tokushima,Tokushima,696.7135,170.1402369840688,258,27,222,19,133,18,-0.34,214,21,Dō,道,Municipality
+286,Ajimu,安心院,125295,Tokushima,Tokushima,934.477,134.080346546785,243,24,229,22,113,16,-0.51,238,25,Dō,道,Municipality
+287,Taketa,竹田,243194,Tokushima,Tokushima,928.723,261.85848740690176,125,4,204,16,114,17,-0.08,172,16,Dō,道,Municipality
+288,Kusu,玖珠,129492,Tokushima,Tokushima,151.0425,857.3216147772978,237,22,153,12,228,26,0.98,49,5,Dō,道,Municipality
+289,Moriyasu,守安,429402,Tokushima,Tokushima,167.3455,2565.960841492601,52,2,86,4,217,25,0.54,108,8,To,都,Municipal-level city
+290,Hayato,隼人,146590,Tokushima,Tokushima,344.4865,425.53191489361706,210,18,181,15,176,21,0.23,150,13,Dō,道,Municipality
+291,Kushira,串良,158485,Tokushima,Tokushima,31.3045,5062.690667475922,194,14,62,2,310,35,0.67,91,7,To,都,Municipal-level city
+292,Nokizawa,軒沢,697209,Tokushima,Tokushima,123.2315,5657.71738557106,19,1,44,1,238,28,1.09,42,3,To,都,Municipal-level city
+293,Ibusuki,指宿,298018,Tokushima,Tokushima,116.313,2562.207147954227,93,3,88,5,243,30,0.33,137,12,Dō,道,Municipality
+294,Hiji,日出,130501,Tokushima,Tokushima,76.9255,1696.459561523812,233,21,112,6,273,34,0.88,62,6,Dō,道,Municipality
+295,Isa,伊佐,131598,Tokushima,Tokushima,132.205,995.4086456639309,228,20,148,11,234,27,0.38,129,10,Dō,道,Municipality
+296,Kanoya,鹿屋,238402,Tokushima,Tokushima,1411.1,168.94762950889378,131,5,224,20,92,13,-0.39,220,23,Dō,道,Municipality
+297,Chiran,知覧,124288,Tokushima,Tokushima,101.517,1224.3072588827488,245,25,127,7,255,32,-0.11,179,18,To,都,Municipal-level city
+298,Ōguchi,大口,155699,Tokushima,Tokushima,1674.62,92.97571986480516,198,16,246,23,82,12,-0.56,243,28,Dō,道,Municipality
+299,Nejime,根占,89482,Tokushima,Tokushima,536.766,166.7057898600135,283,31,226,21,149,20,0.47,115,9,Dō,道,Municipality
+300,Tsuruta,鶴田,137490,Tokushima,Tokushima,644.5165,213.322700039487,224,19,209,18,134,19,0.37,132,11,Dō,道,Municipality
+301,Kokubu,国分,164199,Tokushima,Tokushima,6727.317,24.40779882975635,186,13,275,27,20,3,-1.07,294,30,Dō,道,Municipality
+302,Sadowara,佐土原,126384,Tokushima,Tokushima,122.204,1034.2050996694054,241,23,139,9,239,29,-0.33,211,20,To,都,Municipal-level city
+303,Nobeoka,延岡,167010,Tokushima,Tokushima,7442.662,22.4395518700164,183,11,285,30,18,2,-1.36,318,33,Dō,道,Municipality
+304,Takanabe,高鍋,225239,Tokushima,Tokushima,957.904,235.137341529005,145,7,207,17,111,15,1.44,11,2,Dō,道,Municipality
+305,Togitsu,時津,237100,Tokushima,Tokushima,78.501,3020.3436898893005,133,6,77,3,271,33,2.16,1,1,To,都,Municipal-level city
+306,Mimata,三股,122104,Tokushima,Tokushima,2595.26,47.04885059685734,248,26,258,24,62,11,-1.15,298,31,Dō,道,Municipality
+307,Takaharu,高原,154295,Tokushima,Tokushima,180.018,857.1087335710873,200,17,154,13,209,23,0.14,159,15,To,都,Municipal-level city
+308,Shimoya,志茂屋,156294,Tokushima,Tokushima,5520.415,28.312001905653833,197,15,272,26,26,4,-0.39,220,23,Dō,道,Municipality
+309,Ojika,小値賀,78303,Tokushima,Tokushima,4593.336,17.047087345667723,295,33,306,34,36,9,-1.27,307,32,Dō,道,Municipality
+310,Naru,奈留,101491,Tokushima,Tokushima,5176.956,19.604377553141266,276,30,292,31,29,5,-0.51,238,25,Dō,道,Municipality
+311,Unzen,雲仙,19593,Tokushima,Tokushima,1261.017,15.53745905090891,321,35,309,35,100,14,-1.42,323,34,Dō,道,Municipality
+312,Tsukura,津倉,189194,Tokushima,Tokushima,8298.501,22.798575308962427,170,9,279,28,13,1,0.17,157,14,Dō,道,Municipality
+313,Hario,針尾,89198,Tokushima,Tokushima,4958.167,17.990116105407502,284,32,301,33,34,8,-0.38,219,22,Dō,道,Municipality
+314,Isawa,胆沢,121393,Miyagi,Miyagi,105.764,1147.7723989259105,250,5,132,2,248,19,1.58,5,1,Dō,道,Municipality
+315,Senmaya,千厩,119103,Miyagi,Miyagi,271.0545,439.4060972977759,257,6,178,6,189,16,1.37,15,2,Dō,道,Municipality
+316,Ekimaya,益間谷,712509,Miyagi,Miyagi,167.003,4266.44431537158,17,1,68,1,220,18,0.71,84,4,To,都,Municipal-level city
+317,Shizukari,静狩,80024,Miyagi,Miyagi,95.1465,841.0608903112568,291,12,157,4,260,20,1.05,46,3,Dō,道,Municipality
+318,Kesen,気仙,247294,Miyagi,Miyagi,521.833,473.8949050749953,121,3,176,5,151,15,0.36,134,5,Dō,道,Municipality
+319,Wakuya,涌谷,266905,Miyagi,Miyagi,1309.515,203.81973478730674,107,2,212,7,97,13,-0.24,197,7,Dō,道,Municipality
+320,Kannari,金成,98302,Miyagi,Miyagi,5711.188,17.21218072317003,278,9,305,9,24,7,-1.27,307,13,Dō,道,Municipality
+321,Tsukidate,築館,103599,Miyagi,Miyagi,5916.619,17.509831205964083,271,7,302,8,23,6,-1.25,305,12,Dō,道,Municipality
+322,Shiwa,紫波,87012,Miyagi,Miyagi,11090.97,7.8453011774443535,288,10,322,12,5,4,-1.31,311,15,Dō,道,Municipality
+323,Tome,登米,211349,Miyagi,Miyagi,243.86,866.6817026162552,149,4,150,3,196,17,-0.15,186,6,To,都,Municipal-level city
+324,Monou,桃生,79103,Miyagi,Miyagi,10490.43,7.540491667167123,293,13,324,13,7,5,-1.23,304,11,Dō,道,Municipality
+325,Esashi,江刺,101492,Miyagi,Miyagi,22971.89,4.418095333035288,275,8,329,16,2,2,-1.29,309,14,Dō,道,Municipality
+326,Kindaichi,金田一,61402,Miyagi,Miyagi,14027.43,4.37728079912001,307,15,330,17,3,3,-1.16,300,9,Dō,道,Municipality
+327,Shikine,式根,12194,Miyagi,Miyagi,2328.041,5.237880260699876,327,18,327,15,64,10,-1.22,303,10,Dō,道,Municipality
+328,Rishiri,利尻,85193,Miyagi,Miyagi,32444.27,2.625825762145365,290,11,333,20,1,1,-1.5,325,18,Dō,道,Municipality
+329,Kutsuna,久津那,14392,Miyagi,Miyagi,1706.472,8.433774477401329,326,17,319,11,80,11,-1.35,316,16,Dō,道,Municipality
+330,Mikine,三根,6593,Miyagi,Miyagi,1611.394,4.0914884876076245,330,19,332,19,86,12,-1.13,297,8,Dō,道,Municipality
+331,Tokara,吐噶喇,25585,Miyagi,Miyagi,3671.326,6.968871737350483,318,16,326,14,47,9,-1.39,320,17,Dō,道,Municipality
+332,Okushiri,奥尻,69195,Miyagi,Miyagi,4223.231,16.384374901586014,302,14,308,10,41,8,-1.52,326,19,Dō,道,Municipality
+333,Akusekijima,悪石島,4295,Miyagi,Miyagi,985.715,4.357243219388971,332,20,331,18,108,14,-1.55,328,20,Dō,道,Municipality
